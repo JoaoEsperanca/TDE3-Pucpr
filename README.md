@@ -1,4 +1,4 @@
-TDE – Documentação do Consumo de API com JavaScript
+TDE3 – Documentação do Consumo de API com JavaScript
 1. API Utilizada
 A API escolhida para este trabalho foi a JSONPlaceholder, disponível publicamente em https://jsonplaceholder.typicode.com. Ela é uma API gratuita voltada para testes e estudos, permitindo realizar requisições HTTP sem necessidade de autenticação. Os dados fornecidos são fictícios e servem como base para exercitar o consumo de APIs reais.
 No projeto foram utilizados os seguintes endpoints: • GET /posts – retorna uma lista de posts em formato JSON. • POST /posts – permite enviar um novo post para a API, retornando o objeto criado.
